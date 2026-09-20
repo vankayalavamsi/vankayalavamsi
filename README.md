@@ -164,47 +164,36 @@ const vamsi = {
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vankayalavamsi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=vankayalavamsi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vankayalavamsi&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vankayalavamsi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vankayalavamsi&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=vankayalavamsi&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vankayalavamsi/vankayalavamsi/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vankayalavamsi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vankayalavamsi&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 # 🌱 Currently Learning
 
