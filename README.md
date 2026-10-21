@@ -64,81 +64,93 @@ const vamsi = {
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Frontend technologies"/>
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database technologies"/>
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,netlify" alt="Development tools"/>
 </p>
 
 ---
-
 # 🚀 Featured Projects
 
-## 💼 Job Application Tracker API
+## 🎓 Student Management System
 
-> REST API for managing and tracking job applications.
+> A web application designed to manage student information and organize student records efficiently.
 
-**Tech:** Node.js • Express.js • MongoDB • Mongoose • JWT • bcrypt
-
-### Highlights
-
-* 🔐 User authentication
-* 🔑 JWT authorization
-* 🔒 Password hashing with bcrypt
-* 📝 Job application management
-* 🔍 Search functionality
-* 🏷️ Status filtering
-* 💼 Job-type filtering
-* 📊 Application statistics
-* 🌐 RESTful API architecture
-
-**Repository**
-
-[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)](https://github.com/vankayalavamsi/Job-Application-Tracker-Backend-API)
-
----
-
-## 🍳 RecipeHub
-
-> A responsive recipe discovery web application built with React.
-
-**Tech:** React • Vite • React Router • JavaScript
+**Tech:** JavaScript • React • Node.js • Express.js • MongoDB
 
 ### Highlights
 
-* 🍽️ Recipe discovery
-* 🧭 Client-side routing
-* 📱 Responsive UI
-* 🧩 Reusable components
-* ⚡ Vite-powered development
-* 🚀 Netlify deployment
+* 🎓 Student record management
+* 📝 Add, view, update, and delete student information
+* 🔍 Search and manage student records
+* 📊 Organized student information
+* 📱 Responsive user interface
+* 🔌 Backend API integration
 
 **Links**
 
-[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge\&logo=github)](https://github.com/vankayalavamsi/RecipeHub)
+[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge\&logo=github)](https://github.com/vankayalavamsi/Student-Management-System)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)](https://recipehub23.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)](https://student-management-system23.netlify.app/)
 
 ---
 
-## 📊 Nova Admin Dashboard
+## 🌦️ Weather Dashboard
 
-> A modern dashboard interface focused on clean UI and responsive design.
+> A responsive weather dashboard that allows users to explore weather conditions through a clean and intuitive interface.
 
-**Tech:** JavaScript • React • Vite
+**Tech:** JavaScript • React • Vite • Weather API
 
-[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge\&logo=github)](https://github.com/vankayalavamsi/Nova-Admin-Dashboard)
+### Highlights
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)](https://novadashboard23.netlify.app/)
+* 🌤️ Weather information display
+* 🌡️ Temperature and weather conditions
+* 🌍 Weather information based on city search
+* 🔌 API integration for retrieving weather data
+* 📱 Responsive design for different screen sizes
+* ⚡ Fast and interactive user experience
+
+**Links**
+
+[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge\&logo=github)](https://github.com/vankayalavamsi/Weather-Dashboard)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)](https://weatherdashboard-23.netlify.app/)
+
+---
+
+## 🔌 REST API Services
+
+> A backend development project focused on building RESTful APIs for handling HTTP requests, processing data, and enabling communication between applications.
+
+**Tech:** JavaScript • Node.js • Express.js • REST APIs
+
+### Highlights
+
+* 🔗 RESTful API endpoint development
+* 📥 HTTP request and response handling
+* 📦 JSON-based data exchange
+* 🛣️ API routing and request processing
+* ⚠️ Error handling and response management
+* 🏗️ Structured backend development
+* 🧪 API testing with Postman
+
+**Links**
+
+[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge\&logo=github)](https://github.com/vankayalavamsi/API-REST-Service)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge\&logo=render\&logoColor=white)](https://api-rest-service.onrender.com/)
+
+---
 
 ---
 
@@ -151,7 +163,7 @@ const vamsi = {
 │                                               │
 │   🔌  Designing REST APIs                     │
 │                                               │
-│   🔐  Learning secure authentication           │
+│   🔐  Learning secure authentication          │
 │                                               │
 │   🗄️  Improving database design               │
 │                                               │
@@ -168,9 +180,9 @@ const vamsi = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vankayalavamsi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vankayalavamsi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180" alt="Vamsi's GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vankayalavamsi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vankayalavamsi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Most used programming languages"/>
 
 </div>
 
@@ -180,7 +192,7 @@ const vamsi = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=vankayalavamsi&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=vankayalavamsi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -190,10 +202,11 @@ const vamsi = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vankayalavamsi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vankayalavamsi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
+---
 
 # 🌱 Currently Learning
 
@@ -228,11 +241,11 @@ I'm interested in turning ideas into real products and understanding not just **
 <div align="center">
 
 <a href="https://github.com/vankayalavamsi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vankayala-vamsi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
